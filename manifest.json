@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-sticky-table",
+  "name": "Sticky Table",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Sticky header for tables. Reading mode: click a table to open a scrollable popup. Live preview (desktop): Ctrl+click. Live preview on mobile is not supported.",
+  "author": "sahokun",
+  "isDesktopOnly": false
+}
